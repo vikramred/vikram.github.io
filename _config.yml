@@ -11,14 +11,14 @@ description: This is where the description of your site will go. You should chan
 github_username: jph00
 
 # Email and twitter are optional:
-email:
-twitter_username:
+email: vickywick123@gmail.com
+twitter_username: @vickywick123
 
 # Set this to true to get LaTeX math equation support
-use_math:
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics:
+google_analytics: 185670147
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
